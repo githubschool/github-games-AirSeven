@@ -1,0 +1,7 @@
+* @team-name
+*.js @front-end-team @the-other-team #multiple possible, number set in prot rule decides
+/tests/ @qa #includes all subdirectories
+*.rb @matt
+/test/* @qa #no nested files just root dir of that folder
+/services @services-reviewers
+# later down in the file is higher prio/takes precendence
